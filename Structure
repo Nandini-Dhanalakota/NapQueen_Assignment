@@ -1,0 +1,9 @@
+building-entry-system/
+|-- src/
+|   |-- controllers/
+|   |-- models/
+|   |-- routes/
+|   |-- app.ts
+|   |-- server.ts
+|-- package.json
+|-- tsconfig.json
